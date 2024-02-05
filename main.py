@@ -24,6 +24,7 @@ credits = """
 Credits:
   Creator: Shiba (chleba124)
   GitHub: https://github.com/chleba124
+  Twitter (X): https://twitter.com/pcheeprd
 """
 
 color_banner = Colorate.Horizontal(Colors.yellow_to_red, banner, 1)
